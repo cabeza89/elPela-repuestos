@@ -280,7 +280,7 @@ div.contacto{
 	width: auto;
 	margin: 0 auto;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 div.contacto i.ws{
 	color: green;
